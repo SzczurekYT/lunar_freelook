@@ -1,0 +1,1 @@
+enum ConnectionSide { client, server }
